@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "0715529e97634df4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5edc702e750f97d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b9aded348d4ecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logs/Logs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logs"
+            }
+          },
+          {
+            "id": "7c0c75731745def4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Lore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lore"
+            }
+          },
+          {
+            "id": "2448d55a6cc32a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Silas kane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Silas kane"
+            }
+          },
+          {
+            "id": "036decf5f2f8440b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Andreas Iglesias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Andreas Iglesias"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bffeddbb908e8777",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f5bfa70846edeba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af5b49b3eed25087",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d765d1eee71053f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "436f6f249c40337b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c57f152e87b85475",
+    "type": "split",
+    "children": [
+      {
+        "id": "b01297e3db49d9be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35446ce65eead09d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Andreas Iglesias.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Andreas Iglesias"
+            }
+          },
+          {
+            "id": "e8032e2703d547b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Andreas Iglesias.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Andreas Iglesias"
+            }
+          },
+          {
+            "id": "b4804cb91e60602a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e2ef941d5b6717e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "47eed3c13cbcf475",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Andreas Iglesias.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Andreas Iglesias"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "036decf5f2f8440b",
+  "lastOpenFiles": [
+    "Lore/Silas kane.md",
+    "Andreas Iglesias.md",
+    "Logs/Pre-Obsidian Log.md",
+    "Lore/Lore.md",
+    "Lore/Lena Voss.md",
+    "Lore/Eli Mercer.md",
+    "Logs/Logs.md",
+    "Eli.md",
+    "Welcome.md",
+    "Logs",
+    "Lore",
+    "desktop.ini"
+  ]
+}
